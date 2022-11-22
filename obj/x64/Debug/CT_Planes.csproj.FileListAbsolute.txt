@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\CT_Planes.exe.config
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\CT_Planes.exe
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\CT_Planes.pdb
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\CommandLine.dll
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\VMS.TPS.Common.Model.API.dll
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\CommandLine.xml
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\VMS.TPS.Common.Model.API.xml
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\bin\debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\obj\x64\Debug\CT_Planes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\obj\x64\Debug\CT_Planes.csproj.CopyComplete
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\obj\x64\Debug\CT_Planes.exe
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\obj\x64\Debug\CT_Planes.pdb
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\CT_Planes\obj\x64\Debug\CT_Planes.csproj.AssemblyReference.cache
